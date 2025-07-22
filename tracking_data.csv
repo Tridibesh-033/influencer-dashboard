@@ -1,0 +1,101 @@
+source,campaign,influencer_id,user_id,product,date,orders,revenue
+influencer_campaign,July_Campaign,15,ff41fe32-89f6-4f61-8742-ac0698fb2f01,Protein Powder,2025-06-19,21,28665
+influencer_campaign,July_Campaign,11,cb69483e-e276-42e4-b88e-1c9684a3672c,Multivitamin,2025-06-19,2,1014
+influencer_campaign,July_Campaign,11,9b1ec3bc-d7bf-46bc-a842-0e3d931e6181,Gainer,2025-07-04,15,18195
+influencer_campaign,July_Campaign,12,5d46aa4f-5ba2-4c77-9bb0-4c1b662d206f,Gainer,2025-05-28,2,2656
+influencer_campaign,July_Campaign,10,a5f6176c-1773-4f02-ac54-7dcaa40ef6f8,Gainer,2025-06-10,30,28500
+influencer_campaign,July_Campaign,5,8ce3effc-6378-4c2c-8271-b56f7c659016,Multivitamin,2025-05-27,6,7014
+influencer_campaign,July_Campaign,18,353c5f0f-d596-4a5e-b7bb-ffe5f68d3a3f,Protein Powder,2025-06-15,14,15904
+influencer_campaign,July_Campaign,7,ea4e71bb-1017-4cb0-bd6d-9a5f8d23dccf,Multivitamin,2025-06-03,16,10080
+influencer_campaign,July_Campaign,9,63ab5b5d-6f64-4f0b-b610-13c8c375b475,Multivitamin,2025-07-09,7,6552
+influencer_campaign,July_Campaign,14,21b29a92-731d-4524-9ed8-c72e47ce7f58,Multivitamin,2025-07-13,12,9492
+influencer_campaign,July_Campaign,18,1f577309-d976-4b2e-b910-9a06749b6e31,Gainer,2025-06-01,27,36936
+influencer_campaign,July_Campaign,4,ace62909-6b48-4f90-90b7-df434d3adf90,Multivitamin,2025-06-15,19,11077
+influencer_campaign,July_Campaign,15,b0a94611-aa21-4f55-8344-75fd9ed79862,Protein Powder,2025-06-25,10,6360
+influencer_campaign,July_Campaign,2,49bc29a4-924a-408f-8595-904c445b4ec0,Protein Powder,2025-07-06,26,31616
+influencer_campaign,July_Campaign,16,aa695a90-9082-4d0c-9c77-7a22010c7ec5,Protein Powder,2025-06-29,18,21528
+influencer_campaign,July_Campaign,8,aca951a7-cb77-440e-9f9e-3815467a1b52,Gainer,2025-07-11,10,5390
+influencer_campaign,July_Campaign,13,a09ad3dd-6d21-47f0-8133-036137b4e172,Protein Powder,2025-07-05,1,1103
+influencer_campaign,July_Campaign,8,198ad55d-0a9c-4b55-8950-4de93483e2d2,Gainer,2025-06-28,28,21812
+influencer_campaign,July_Campaign,17,e5152d4c-113a-44ae-98fb-afd73c0b1ed5,Protein Powder,2025-06-03,19,21717
+influencer_campaign,July_Campaign,19,6593d879-3ce0-4304-9011-c14f7ba40d23,Gainer,2025-07-15,6,8526
+influencer_campaign,July_Campaign,18,26031a0c-1e71-4a48-a328-323fb0c0b04e,Protein Powder,2025-06-02,25,14750
+influencer_campaign,July_Campaign,17,63066b8c-e85b-4468-bc4f-b5882a692f78,Protein Powder,2025-06-12,8,6544
+influencer_campaign,July_Campaign,17,2a668ef1-2909-40f8-adb9-8d0cea206ca5,Gainer,2025-07-04,30,41040
+influencer_campaign,July_Campaign,15,b5f6de32-fc0a-4fce-9b6a-05d78ba6aea5,Gainer,2025-06-08,14,12292
+influencer_campaign,July_Campaign,2,b8fd2879-b906-47ac-9011-ff732b0fb964,Multivitamin,2025-07-08,18,21798
+influencer_campaign,July_Campaign,19,97c2a8a4-5f63-4bd0-a58e-d8502b97a578,Gainer,2025-06-21,3,2838
+influencer_campaign,July_Campaign,5,d5010618-937a-4cf6-a650-18cdc0974a8c,Multivitamin,2025-05-31,11,13057
+influencer_campaign,July_Campaign,14,5c1103f0-6e34-429a-8883-c14cc77d11eb,Protein Powder,2025-05-29,0,0
+influencer_campaign,July_Campaign,5,4038aee3-5960-4161-90b9-4769cb8e5fc6,Gainer,2025-07-09,1,1263
+influencer_campaign,July_Campaign,17,6f27330e-25ca-4de1-a37f-3aec546d051a,Multivitamin,2025-05-28,8,4904
+influencer_campaign,July_Campaign,20,76793da5-516b-4cbd-b09c-723c83fb5d43,Gainer,2025-06-08,15,19230
+influencer_campaign,July_Campaign,12,e8929bb3-e433-42f7-92b2-d00fb5c1d81c,Protein Powder,2025-06-19,10,7180
+influencer_campaign,July_Campaign,12,c60834dc-1c70-4a0a-b74b-08fac9d094cc,Protein Powder,2025-07-03,8,10696
+influencer_campaign,July_Campaign,9,539bdf0f-5759-402f-91f5-d21a0a9abea7,Protein Powder,2025-06-03,14,8442
+influencer_campaign,July_Campaign,3,07cb6d5b-6dc2-4346-9569-69050bd2f4fe,Protein Powder,2025-05-30,18,16434
+influencer_campaign,July_Campaign,4,1fc0437f-db96-415e-8524-97344b2a9ce8,Gainer,2025-06-18,12,11424
+influencer_campaign,July_Campaign,12,39f87ad6-99d4-4761-8f30-2bf123526c44,Protein Powder,2025-06-30,25,16975
+influencer_campaign,July_Campaign,10,128262b1-ec27-472f-a94d-eb08f24f5ecf,Gainer,2025-06-11,22,22616
+influencer_campaign,July_Campaign,2,ff66d790-f844-4486-89a7-98c4dcda1cc7,Protein Powder,2025-05-28,10,7010
+influencer_campaign,July_Campaign,13,0166e76e-9c1b-47f6-95bc-646774e1dbbc,Gainer,2025-06-15,20,25680
+influencer_campaign,July_Campaign,20,c3fe534f-76ae-4924-ac17-078d812cee7e,Protein Powder,2025-07-21,13,12844
+influencer_campaign,July_Campaign,2,f673b708-ab2d-42af-908b-b51d3f6251f7,Gainer,2025-07-12,10,13340
+influencer_campaign,July_Campaign,15,65645138-f0ad-4374-9d5e-de6914ee347b,Protein Powder,2025-05-25,30,15150
+influencer_campaign,July_Campaign,2,62be3f24-837b-486a-84b1-a8b36f7cd797,Multivitamin,2025-07-18,20,14120
+influencer_campaign,July_Campaign,12,06a4c8d1-0b81-4eed-8e53-c60fbbb446ff,Gainer,2025-07-14,19,16701
+influencer_campaign,July_Campaign,2,0a467d51-8b9a-496b-8eef-d8dcdb17d591,Multivitamin,2025-06-19,18,21078
+influencer_campaign,July_Campaign,12,fc764fbd-bb8b-4534-a694-60eac6e0d6ae,Gainer,2025-06-30,25,23875
+influencer_campaign,July_Campaign,12,cd49a218-22ff-4a9f-b6f8-c91c2c640d07,Multivitamin,2025-05-28,13,7852
+influencer_campaign,July_Campaign,2,c3108854-11c2-45f0-9bef-0026a262c3b2,Gainer,2025-05-26,15,9150
+influencer_campaign,July_Campaign,10,d9774c19-499b-4e21-80b1-bb1412b827c6,Protein Powder,2025-06-08,1,1192
+influencer_campaign,July_Campaign,4,4b50f2d2-0191-4cf3-a92a-2cd5b664af7c,Protein Powder,2025-05-28,1,575
+influencer_campaign,July_Campaign,13,1026cfdb-66c5-4a81-abd9-56c027607af9,Gainer,2025-05-30,4,4368
+influencer_campaign,July_Campaign,14,d9d08abe-b514-4647-b442-6fa4c98750c4,Protein Powder,2025-06-16,14,14238
+influencer_campaign,July_Campaign,1,306c8f56-4871-47c4-b374-f526c5b3fe1e,Protein Powder,2025-06-02,8,6120
+influencer_campaign,July_Campaign,15,3a3efe12-99b3-4451-89c0-1b9baade0982,Protein Powder,2025-06-28,8,7352
+influencer_campaign,July_Campaign,4,5efe663c-3837-4cd4-86aa-4730f37e56dd,Gainer,2025-05-24,29,33553
+influencer_campaign,July_Campaign,18,3b1980eb-3ded-462e-8e3c-2f978bc6f7bb,Multivitamin,2025-06-01,4,3616
+influencer_campaign,July_Campaign,2,0eb5c5e1-9c21-4804-9b8d-1738289e1ca9,Multivitamin,2025-06-29,10,10970
+influencer_campaign,July_Campaign,10,1df3cef1-3db0-48e7-9590-f82341d80b6f,Gainer,2025-06-07,11,13904
+influencer_campaign,July_Campaign,2,0c25b2f3-41a7-44a3-a37a-8753d9220891,Multivitamin,2025-07-11,27,21789
+influencer_campaign,July_Campaign,20,aa3aeb20-8f34-4517-9fcd-4330ee4e662c,Multivitamin,2025-06-29,12,11928
+influencer_campaign,July_Campaign,4,e570bc11-727a-4d23-876a-22f37985922e,Gainer,2025-06-19,19,14516
+influencer_campaign,July_Campaign,8,3c059522-99b4-4636-9642-5b9e0288adcc,Multivitamin,2025-07-19,14,17542
+influencer_campaign,July_Campaign,20,e69c1dc2-296b-4a7a-ac44-cb0cb5785358,Gainer,2025-06-08,11,7084
+influencer_campaign,July_Campaign,5,f5f27d55-0238-4215-9a52-6b36826c4880,Multivitamin,2025-07-19,7,7112
+influencer_campaign,July_Campaign,15,c003e3d4-fe20-485f-bf3d-c5c90bf5c591,Multivitamin,2025-05-24,7,3913
+influencer_campaign,July_Campaign,5,01f2e642-3088-4e15-97fd-735b869cbc83,Multivitamin,2025-06-02,2,1814
+influencer_campaign,July_Campaign,10,a1950fcb-af83-431a-99c8-9f05904fdab6,Gainer,2025-07-10,18,12474
+influencer_campaign,July_Campaign,12,5d7d3b61-3eaf-4179-91ac-f6f83fd49386,Gainer,2025-06-06,10,11610
+influencer_campaign,July_Campaign,13,4102cf7c-a040-4588-be8e-02de23394b47,Multivitamin,2025-07-08,20,11920
+influencer_campaign,July_Campaign,14,3d2f682e-3913-489c-be3a-0b16f2031b2b,Protein Powder,2025-05-25,28,41076
+influencer_campaign,July_Campaign,4,e487afa1-2081-4dc3-ac74-673aed5ad33a,Gainer,2025-07-16,10,12100
+influencer_campaign,July_Campaign,2,6f6a9de7-aec9-41f2-927d-7b1fccfd721e,Gainer,2025-07-08,18,13878
+influencer_campaign,July_Campaign,4,121b0c32-5d8d-4964-84ce-6461e1063872,Multivitamin,2025-07-05,8,4504
+influencer_campaign,July_Campaign,16,3b3aeaff-dbbd-480d-b6ea-8846541c2e56,Protein Powder,2025-07-01,7,7035
+influencer_campaign,July_Campaign,9,9e7417b2-716b-456a-9e9c-e757ab3a0a2c,Multivitamin,2025-06-16,8,9624
+influencer_campaign,July_Campaign,9,2b95aa17-e68e-4c2c-803a-7c5dc80240a8,Multivitamin,2025-06-12,22,11528
+influencer_campaign,July_Campaign,5,692a9a48-14e1-4c6a-8fc5-c7c257f49a96,Gainer,2025-07-01,18,10512
+influencer_campaign,July_Campaign,11,1b34f6e0-f630-436c-9061-dfa135d2b8b9,Multivitamin,2025-07-09,18,24912
+influencer_campaign,July_Campaign,7,395b4df2-61c4-48cf-89b7-57bc66272970,Protein Powder,2025-06-07,18,12744
+influencer_campaign,July_Campaign,12,f979fd1d-0d7f-469b-9e26-92d0e949df10,Protein Powder,2025-06-27,1,686
+influencer_campaign,July_Campaign,20,995a734e-73c9-449b-b6b7-0601b7041e3f,Protein Powder,2025-07-16,27,21330
+influencer_campaign,July_Campaign,16,4349d5c7-e8ee-41e3-9478-d8db3981de4c,Protein Powder,2025-06-09,10,11840
+influencer_campaign,July_Campaign,1,b1b4d0c1-f93f-4941-b81d-dbc7fc045144,Multivitamin,2025-07-11,17,18411
+influencer_campaign,July_Campaign,18,c1491892-0c91-4910-a238-6b9d008f7830,Gainer,2025-06-04,6,6492
+influencer_campaign,July_Campaign,3,81e760e0-4f3e-4d18-8b90-a4ad212f1f09,Protein Powder,2025-06-17,12,9144
+influencer_campaign,July_Campaign,8,4c72f913-d0bc-4147-988c-f24a835e4019,Gainer,2025-05-24,19,17328
+influencer_campaign,July_Campaign,18,b7e9c02e-a4bc-49a0-880e-86cf03856ff9,Gainer,2025-05-28,17,13617
+influencer_campaign,July_Campaign,7,219dfe42-b748-4f4a-9b76-0e9032743fba,Gainer,2025-07-08,6,4704
+influencer_campaign,July_Campaign,10,1cccef5d-74aa-49d5-bfb1-692ac4f9f349,Multivitamin,2025-07-08,12,9996
+influencer_campaign,July_Campaign,12,71855290-6e96-4ddb-9ab0-2e0e98ca8ff1,Protein Powder,2025-07-13,4,4252
+influencer_campaign,July_Campaign,15,25dd4165-dc36-4e23-8989-cf0988f5dc13,Multivitamin,2025-07-02,8,4056
+influencer_campaign,July_Campaign,4,0ab482f5-e3f0-4dec-905e-57669ac20670,Protein Powder,2025-06-14,0,0
+influencer_campaign,July_Campaign,10,d370b044-57da-436f-99ab-e45a98b1f69e,Multivitamin,2025-05-26,18,20250
+influencer_campaign,July_Campaign,19,71944864-0914-4ba7-ae09-9fd5fc38ae6b,Multivitamin,2025-07-14,13,15535
+influencer_campaign,July_Campaign,3,f48994b4-a454-4cc3-be04-0dd391c56ba1,Protein Powder,2025-06-15,3,2214
+influencer_campaign,July_Campaign,11,be7f3303-93d6-46f5-bc6b-7ac011348460,Protein Powder,2025-06-10,30,28050
+influencer_campaign,July_Campaign,2,446d37a4-ecdd-460e-9b53-9e2338b7a78b,Multivitamin,2025-07-09,2,1504
+influencer_campaign,July_Campaign,6,0562d912-d7c6-4f54-9fe1-22df28e1c0d2,Gainer,2025-05-31,25,23950
+influencer_campaign,July_Campaign,19,fe9e901a-954c-4888-b208-915957cb90c6,Multivitamin,2025-06-18,22,13904
