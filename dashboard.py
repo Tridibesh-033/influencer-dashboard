@@ -22,7 +22,7 @@ df_posts = pd.read_csv('posts.csv')
 df_tracking = pd.read_csv('tracking_data.csv')
 df_payouts = pd.read_csv('payouts.csv')
 
-st.title("Influencer Campaign Performance Dashboard")
+st.title("Influencer Marketing Performance Dashboard")
 
 # Sidebar filters
 platform = st.sidebar.selectbox("Select Platform", ['All'] + df_influencers['platform'].unique().tolist())
