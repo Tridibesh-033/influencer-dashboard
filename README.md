@@ -60,3 +60,8 @@ The dashboard identifies high-performing influencers and helps track campaign pr
    
 ###  **Conclusion**
 This dashboard helps businesses make better marketing decisions by identifying effective influencers and optimizing payouts.
+
+## 📬 Contact
+- Tridibesh Debnath
+- 📧 tridibeshdebnath@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/tridibesh-debnath-46b37924a/
