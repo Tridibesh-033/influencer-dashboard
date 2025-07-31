@@ -37,6 +37,7 @@ To track campaign performance, calculate ROAS, and gain insights on top-performi
 ## 🧠 Core Logic
 - ROAS = Revenue / Cost
 - Incremental ROAS = (Campaign Revenue - Baseline Revenue) / Cost
+
 The dashboard identifies high-performing influencers and helps track campaign profitability.
 
 ##  **How to Run**
