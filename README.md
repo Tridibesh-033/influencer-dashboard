@@ -60,7 +60,7 @@ The dashboard identifies high-performing influencers and helps track campaign pr
 - Influencers with lowest ROAS
 - Best performer persona (e.g., Female - Nutrition)
    
-###  **Conclusion**
+## Conclusion
 This dashboard helps businesses make better marketing decisions by identifying effective influencers and optimizing payouts.
 
 ## 📬 Contact
