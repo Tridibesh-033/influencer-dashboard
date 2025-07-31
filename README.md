@@ -52,8 +52,8 @@ The dashboard identifies high-performing influencers and helps track campaign pr
 
 ## **Live Demo**
    https://influencer-dashboard-vwuktmypbancekbkfsfkqx.streamlit.app/
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e33fa032-d115-4d90-9db4-f6730768c6d3" />
+   
+<img width="1920" height="973" alt="Screenshot (450)" src="https://github.com/user-attachments/assets/5a80c5a2-2f88-4ac2-a149-49a6a011bd71" />
 
 ## 📌 Sample Insights
 - Top 3 influencers by ROAS
